@@ -1,4 +1,4 @@
-# Project1
+# Proje 1
 
 # İnsertion
 ## 22,27,16,2,18,6 -> insertion'a göre sıralıyacağız.
@@ -44,4 +44,18 @@ Worst case: Aradığımız sayının sonda olması -> 0(n^2)
 4. 11,16,21                       8,12,22 (tek parçaya ayırdı hepsini son adımda)
 5. 8,11,12,16,21,22 
 
+# Proje 3:
 
+## [7, 5, 1, 8, 3, 6, 0, 9, 4, 2] dizisinin Binary-Search-Tree aşamalarını yazınız.
+
+                           5
+                       /      \
+                     3           8
+                   /   \        /  \
+                 1      4       7   9
+               /   \           /
+              0     2         6
+
+              root -> 5
+              sağ ->  8
+              sol ->  3
